@@ -3,6 +3,7 @@ layout: post
 title:  "Basics of Numpy"
 categories: Numpy
 background: '/img/posts/numpy/cheetSheet.png'
+permalink: /:categories/:title
 ---
 
 [Taken reference from ](https://jakevdp.github.io/PythonDataScienceHandbook/)

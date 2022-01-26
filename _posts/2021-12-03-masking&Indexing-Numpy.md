@@ -4,6 +4,7 @@ title:  Masking and indexing
 
 categories: Numpy
 background: '/img/posts/numpy/cheetSheet.png'
+permalink: /:categories/:title
 ---
 
 ## Masking and indexing

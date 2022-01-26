@@ -4,6 +4,7 @@ title:  "Computation in Numpy"
 
 categories: Numpy
 background: '/img/posts/numpy/cheetSheet.png'
+permalink: /:categories/:title
 ---
 
 ![cheetSheet](\img\posts\numpy\cheetSheet.png)
